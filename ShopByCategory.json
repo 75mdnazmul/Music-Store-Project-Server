@@ -1,0 +1,70 @@
+[
+    {
+      "id": 1,
+      "picture": "https://img.fruugo.com/product/6/56/563511566_max.jpg",
+      "musicToyName": "Drum set",
+      "sellerName": "Music World",
+      "sellerEmail": "musicworld@example.com",
+      "price": 29.99,
+      "rating": 4.5,
+      "availableQuantity": 10,
+      "detailDescription": "The Drum set is a compact and portable musical instrument that features 3-4 Drum, various instrument sounds, and built-in rhythms. It is perfect for beginners and children to learn and play music."
+    },
+    {
+      "id": 2,
+      "picture": "https://i5.walmartimages.com/asr/74da16c7-d8e6-4926-ae52-4c0ec9b1c8cf.8c34a77924fddc81d119fbca10f8f03b.jpeg?odnHeight=450&odnWidth=450&odnBg=ffffff",
+      "musicToyName": "Color Wooden 12-Tone Piano",
+      "sellerName": "Rhythmic Beats",
+      "sellerEmail": "beats@example.com",
+      "price": 99.99,
+      "rating": 4.2,
+      "availableQuantity": 5,
+      "detailDescription": "The Color Wooden 12-Tone Piano is a beautifully crafted musical instrument designed for young musicians. Made from high-quality solid wood, this piano features vibrant colors on each key, making it visually appealing and engaging for children."
+    },
+    {
+      "id": 3,
+      "picture": "https://ds.rokomari.store/rokomari110/ProductNew20190903/260X372/BIGFUN_BF_730C2_Kids_Piano_61_Keys_Elect-BIGFUN-fc0f9-259675.jpg",
+      "musicToyName": "Kids Piano",
+      "sellerName": "Melody Makers",
+      "sellerEmail": "melody@example.com",
+      "price": 19.99,
+      "rating": 3.8,
+      "availableQuantity": 8,
+      "detailDescription": "The Kids Piano 61 Keys Electronic Music Keyboard is an excellent tool for introducing children to the world of music. It encourages creativity, improves hand-eye coordination, and enhances cognitive skills. With its user-friendly design and educational features, it offers a fun and engaging musical experience for children of all skill levels."
+    },
+    {
+      "id": 4,
+      "picture": "https://m.media-amazon.com/images/I/61tB2Mk3lVL.__AC_SX300_SY300_QL70_FMwebp_.jpg",
+      "musicToyName": "Electronic Toy Guitar",
+      "sellerName": "Harmony Instruments",
+      "sellerEmail": "harmony@example.com",
+      "price": 14.99,
+      "rating": 4.0,
+      "availableQuantity": 12,
+      "detailDescription": "The Electronic Toy Guitar is a versatile and fun musical instrument designed for young aspiring guitarists. It features a compact and lightweight design, making it easy to hold and play for children ages 3 and above.The guitar comes with realistic guitar sounds and adjustable volume control, allowing kids to strum and play their favorite tunes. It also includes preloaded demo songs and various instrument sounds, providing a wide range of musical options for creativity and exploration."
+      
+    },
+    {
+      "id": 5,
+      "picture": "https://i.etsystatic.com/20227984/r/il/7e9485/4763008833/il_794xN.4763008833_nhzr.jpg",
+      "musicToyName": "Vintage harp",
+      "sellerName": "Brass Sounds",
+      "sellerEmail": "brass@example.com",
+      "price": 9.99,
+      "rating": 3.5,
+      "availableQuantity": 15,
+      "detailDescription": "A vintage harp musical instrument made in the 1980s in the USSR. Children's string toy musical instrument in good condition, fully working. A retro mini Russian musical is suitable both for playing on it and for collecting folk instruments. It will look great as a decorative psaltery musical instrument in your home. Size: length 45 cm - 17.72 inches, width 16 cm - 6.3 inches."
+    },
+    {
+      "id": 6,
+      "picture": "https://i.etsystatic.com/17094234/r/il/989612/3621856524/il_794xN.3621856524_19h0.jpg",
+      "musicToyName": "Mandolin folk guitar",
+      "sellerName": "Playful Tunes",
+      "sellerEmail": "playfultunes@example.com",
+      "price": 39.99,
+      "rating": 4.7,
+      "availableQuantity": 3,
+      "detailDescription": "This children's toy mandolin folk guitar 4 string. Ancient folk instrument is one of the most famous Russian characters. Perfect for your collection or for interior decoration."
+    }
+  ]
+  
