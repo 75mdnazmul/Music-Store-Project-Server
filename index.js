@@ -43,7 +43,8 @@ async function run() {
       res.send(result)
     })
     
-    // My toys read...................................................
+    
+    // My toys read..
     app.get('/myToys' , async (req, res)=>{
       console.log(req.query.email);
       let query = {};
@@ -59,6 +60,28 @@ async function run() {
       const myToy = req.body;
       console.log(myToy);
       const result = await myToyCollection.insertOne(myToy);
+      res.send(result);
+    })
+
+    // My toys Update..................................................
+    app.patch('/myToys/:id' , async(req, res)=>{
+      const id = req.params.id;
+      const filter = {_id: new ObjectId(id)};
+      const updatedMyToys = req.body;
+      console.log(updatedMyToys);
+      const updateDoc = {
+        $set: {
+          status: updatedMyToys.status
+        }
+      }
+      const result = await myToyCollection.updateOne(filter, updateDoc);
+      res.send(result);
+    })
+
+    app.get('updateMyToys/:id', async (req, res)=>{
+      const id = req.params.id;
+      const query = {_id: new ObjectId(id)};
+      const result = await myToyCollection.findOne(query);
       res.send(result);
     })
 
